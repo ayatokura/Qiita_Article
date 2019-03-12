@@ -1,7 +1,7 @@
-Qiita 公開記事
-Title: 【Watson×Slack】IBM Watsonを連携させたSlack botを開発する方法 (Watson Assistant編)
-Author: @ayatokura
-Modification Date: 2019/3/12
+Qiita 公開記事  
+Title: 【Watson×Slack】IBM Watsonを連携させたSlack botを開発する方法 (Watson Assistant編)  
+Author: @ayatokura  
+Modification Date: 2019/3/12  
 - - -
 
 今回は、Watson APIを使ったSlack Botアプリの開発する手順をご紹介いたします。コーディングなしで進めることができますので、プログラミングに慣れていない方も触ってみてください。この操作を終えると、SlackにWatsonが連携されたSlack Botと自然な会話の流れでチャットを体験することができます。
