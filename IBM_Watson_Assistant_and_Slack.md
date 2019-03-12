@@ -1,5 +1,4 @@
-Qiita 公開記事  
-Title: 【Watson×Slack】IBM Watsonを連携させたSlack botを開発する方法 (Watson Assistant編)  
+Title: [【Watson×Slack】IBM Watsonを連携させたSlack botを開発する方法 (Watson Assistant編)](https://qiita.com/ayatokura/items/476139e76c73e6c88362)  
 Author: @ayatokura  
 Modification Date: 2019/3/12  
 - - -
