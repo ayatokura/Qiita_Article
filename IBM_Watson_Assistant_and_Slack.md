@@ -4,7 +4,7 @@
 - - -
 
 今回は、Watson APIを使ったSlack Botアプリの開発する手順をご紹介いたします。コーディングなしで進めることができますので、プログラミングに慣れていない方も触ってみてください。この操作を終えると、SlackにWatsonが連携されたSlack Botと自然な会話の流れでチャットを体験することができます。
-※今回は、IBM WatsonとSlackの連携が簡単に行えることを解説するため、英語サンプルを利用していますが、実際はWatson Assistant上でカスタマイズすることで日本語も利用することが可能です。
+※今回は、IBM WatsonとSlackの連携が簡単に行えることを解説するため、英語サンプルを利用していますが、実際はWatson Assistant上でカスタマイズすることで日本語も利用することが可能です。  
 【Slack bot完成後の例】
 <img src="https://gf6mxw.by.files.1drv.com/y4mjIzZCDrGnqMTNkYdQiD22v27TyQWVdv1V-hwoiVhaYUku-VCy73YhJjHBcugGO9WxX-xEmM2OkJMTTNYC8pPwpa6WCNdVG78MbV2i9QZlYjAVhfpuCE41T1hgmkkDyksL96n2R_7CmHIfZra9TPpBYD0Ahdj22ehB8s4HUFAkwcWD_3Ce7GQa9lWKw8o_N1pMbw3mFs8T9KFeZ2GbEW0Mg?width=1660&height=714&cropmode=none" width="600">
 
